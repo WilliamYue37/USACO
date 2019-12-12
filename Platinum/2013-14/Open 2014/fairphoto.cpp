@@ -94,7 +94,7 @@ int main() {
 				}
 				if (unique >= K) {
 					ans = max(ans, cows[i].ff - cows[idx].ff);
-				}
+				}	
 			}
 		}
 

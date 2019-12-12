@@ -13,6 +13,7 @@ typedef pair<long long, long long> pl;
 const int MOD = 1e9 + 7;
 const ll INF = 1e18;
 const double EPS = 1e-6;
+const int MAX_N = 2e5 + 5;
 
 int N;
 
